@@ -1,2 +1,2 @@
 # Cortana
-Easy to use features and additional functionality for LLM and TTS models.
+Easy to use features and additional functionality for OLLAMA and Coqui-AI-TTS.
